@@ -1,9 +1,10 @@
 # Project 0 - Git + Java
-Patrick Hung
+1: Patrick Hung
 
-https://github.com/TheFishEy/project-0-git
+2: Link to Github: https://github.com/TheFishEy/project-0-git
 
-This repo is shows:
-- git init, and other git commands
-- Java program
-- Debugging in vscode
+3: Link to youtube video: https://youtu.be/B2MgJedaK70
+
+4: ScreenCast Software: OBS Studio
+IDE:  VS Code with Java 21
+
