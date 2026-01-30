@@ -3,7 +3,7 @@
 public class Hello {
     public static void main(String[]args)
     {
-        System.out.println("Program to compute sum")
+        System.out.println("Program to compute sum");
 
         int n =  10;
         int sum = computeSum(n);
